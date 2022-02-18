@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "title": "GraphQL Client with Vue.js",
+      "author": "Andy",
+      "link": "https://www.vuemastery.com/blog/part-3-client-side-graphql-with-vuejs",
+      "id": 1
+    },
+    {
+      "title": "TypeScript with Vue.js",
+      "author": "Andy",
+      "link": "https://www.vuemastery.com/blog/getting-started-with-typescript-and-vuejs",
+      "id": 2
+    },
+    {
+      "title": "VS Code for Vue Developers",
+      "author": "Andy",
+      "link": "https://www.vuemastery.com/blog/vs-code-for-vuejs-developers",
+      "id": 3
+    },
+    {
+      "title": "Untitled - Fri Feb 18 2022 19:15:28 GMT-0300 (Brasilia Standard Time)",
+      "author": "Andy",
+      "link": "https://vuemastery.com/blog",
+      "id": 4
+    }
+  ]
+}
